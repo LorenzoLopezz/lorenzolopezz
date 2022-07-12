@@ -7,7 +7,7 @@
         <h3>Desarrollador Web - Frontend & Backend</h3>
         <a href="https://wa.me/50370338902?text=Hola Lorenzo" target="blank_"><button class="action-btn"><v-icon color="white">mdi-whatsapp</v-icon> ¡Contácteme!</button></a>
         <br>
-        <a href="www.linkedin.com/in/lorenzolopezz" target="blank_"><v-icon color="white">mdi-linkedin</v-icon> Linkedin</a>
+        <a href="https://www.linkedin.com/in/lorenzolopezz" target="blank_"><v-icon color="white">mdi-linkedin</v-icon> Linkedin</a>
         <a href="https://github.com/LorenzoLopezz" style="margin-left: 15px;" target="blank_"><v-icon color="white">mdi-github</v-icon> GitHub</a>
       </div>
       <div class="hero-photo">
